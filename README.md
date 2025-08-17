@@ -1,3 +1,7 @@
+## Portfolio: 
+[🔗 노션 포트폴리오](https://www.notion.so/23c6a1f0e9ad80118f2fc585659f2eb7?source=copy_link)
+
+
 ## Projects:
 
 ### 1. BI툴 · 데이터 시각화 프로젝트
