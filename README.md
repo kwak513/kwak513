@@ -12,9 +12,9 @@
 
 | 프로젝트명 (Project)          | 설명 (Description)                       | 역할 (Role)                         | Repository                                                                                       |
 |:---:|:---:|:---:|:---:|
-| **ChartBoard** | BI 툴 ((Business Intelligence Tool)                   | FE, BE (Solo)                     | [FE](https://github.com/kwak513/CHART-BOARD-FE), [BE](https://github.com/kwak513/CHART-BOARD-BE) |
-| **Doctor K**   | 외국인을 위한 병원 정보 웹사이트 (Hospital Info for Foreigners)       | FE, BE (Solo)                     | [FE](https://github.com/kwak513/MED-FOREIGN-FE), [BE](https://github.com/kwak513/MED-FOREIGN-BE) |
-| **HUFSBOT**    | 한국외대 학사 챗봇 (HUFS Chatbot)               | FE, BE (Solo)                     | [FE](https://github.com/kwak513/HUFS-BOT-FE), [BE](https://github.com/kwak513/HUFS-BOT-BE)       |
+| **ChartBoard** | BI 툴 <br/> (Business Intelligence Tool)                   | FE, BE (Solo)                     | [FE](https://github.com/kwak513/CHART-BOARD-FE), [BE](https://github.com/kwak513/CHART-BOARD-BE) |
+| **Doctor K**   | 외국인을 위한 병원 정보 웹사이트  <br/>  (Hospital Info for Foreigners)       | FE, BE (Solo)                     | [FE](https://github.com/kwak513/MED-FOREIGN-FE), [BE](https://github.com/kwak513/MED-FOREIGN-BE) |
+| **HUFSBOT**    | 한국외대 학사 챗봇  <br/> (HUFS Chatbot)               | FE, BE (Solo)                     | [FE](https://github.com/kwak513/HUFS-BOT-FE), [BE](https://github.com/kwak513/HUFS-BOT-BE)       |
 | **NEXERP**     | 물류 모듈 중심 ERP (Logistics ERP), <br/>연합동아리 최우수상 (Grand Prize) | FE, BE                     | [FE](https://github.com/kwak513/NEXERP-FE), [BE](https://github.com/kwak513/NEXERP-BE)                                                       |
 
 ---
