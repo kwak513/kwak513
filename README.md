@@ -5,9 +5,9 @@
     - `SQLD (SQL Developer)`
     - `Engineer Information Processing (Written Exam Passed)`
 - **Activities**
-    - `Software Maestro 17th` | *<sub>Apr 2026 ~</sub>*
-    - `TAVE IT Club 16th` | *<sub>Sep 2025 – Jan 2026</sub>*
-    - `KT IT Supporters 3rd` | *<sub>May 2025 – Sep 2025</sub>*
+    - `Software Maestro 17th` (*<sub>Apr 2026 ~</sub>*)
+    - `TAVE IT Club 16th` (*<sub>Sep 2025 – Jan 2026</sub>*)
+    - `KT IT Supporters 3rd` (*<sub>May 2025 – Sep 2025</sub>*)
     
 
 ### Projects
