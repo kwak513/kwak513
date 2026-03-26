@@ -13,7 +13,7 @@
 | Project       | Description                   | Role                     | Repository                                                                                       |
 |:---:|:---:|:---:|:---:|
 | **ChartBoard** | Business Intelligence Tool               | FE, BE (Solo)                     | [FE](https://github.com/kwak513/CHART-BOARD-FE), [BE](https://github.com/kwak513/CHART-BOARD-BE) |
-| **NEXERP**     | Logistics ERP, <br/> (Awarded Grand Prize) | FE, BE                     | [FE](https://github.com/kwak513/NEXERP-FE), [BE](https://github.com/kwak513/NEXERP-BE)                                                       |
+| **NEXERP**     | Logistics ERP <br/> (Awarded Grand Prize) | FE, BE                     | [FE](https://github.com/kwak513/NEXERP-FE), [BE](https://github.com/kwak513/NEXERP-BE)                                                       |
 | **HUFSBOT**    | HUFS Chatbot              | FE, BE (Solo)                     | [FE](https://github.com/kwak513/HUFS-BOT-FE), [BE](https://github.com/kwak513/HUFS-BOT-BE)       |
 | **Doctor K**   | Hospital Info for Foreigners       | FE, BE (Solo)                     | [FE](https://github.com/kwak513/MED-FOREIGN-FE), [BE](https://github.com/kwak513/MED-FOREIGN-BE) |
 
