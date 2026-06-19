@@ -3,7 +3,7 @@
 - **Certifications**: SQLD, Engineer Information Processing (Written)
 
 ### Activities
-- AI·SW Maestro 17th *<sub>( Apr 2026 ~ Present)</sub>*
+- AI·SW Maestro 17th *<sub>( Apr 2026 ~ Jun 2026)</sub>*
 - TAVE IT Club 16th *<sub>( Sep 2025 – Jan 2026 )</sub>*
 - KT IT Supporters 3rd *<sub>( May 2025 – Sep 2025 )</sub>*
     
